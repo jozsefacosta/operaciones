@@ -8,9 +8,9 @@ public class Suma {
 		int a=2;
 		int b=4;
 		
-		int suma = a+b;
+		int sumas = a+b;
 		
-		System.out.println("La suma es: "+suma);
+		System.out.println("La suma es: "+sumas);
 
 	}
 
