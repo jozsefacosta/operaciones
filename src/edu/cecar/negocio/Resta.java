@@ -6,9 +6,9 @@ public class Resta {
 		// TODO Auto-generated method stub
 		
 		int a=2;
-		int b=4;
+		int b=7;
 		
-		int resta = a-b;
+		int resta = b-a;
 		
 		System.out.println("La resta es: "+resta);
 
