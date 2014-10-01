@@ -10,6 +10,7 @@ public class Resta {
 		
 		int resta = b-a;
 		
+		
 		System.out.println("La resta es: "+resta);
 
 	}
