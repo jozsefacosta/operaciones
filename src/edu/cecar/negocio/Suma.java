@@ -10,6 +10,8 @@ public class Suma {
 		
 		int sumas = a+b;
 		
+		
+		
 		System.out.println("La suma es: "+sumas);
 
 	}
